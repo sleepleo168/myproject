@@ -1,6 +1,36 @@
-Hello.java
- Hello
+com/roger/HealthReport.java
+ com.roger.HealthReport
+com/roger/lottery/NumberGame.java
+ com.roger.lottery.NumberGame
+com/roger/guess/GameFor.java
+ com.roger.guess.GameFor
 com/roger/Hello.java
  com.roger.Hello
+com/roger/student/GraduateStudent.java
+ com.roger.student.GraduateStudent
 com/roger/Person.java
  com.roger.Person
+com/roger/FinanceReport.java
+ com.roger.FinanceReport
+com/roger/lottery/BigGame.java
+ com.roger.lottery.BigGame
+com/roger/student/Student.java
+ com.roger.student.Student
+com/roger/lottery/Game539.java
+ com.roger.lottery.Game539
+com/roger/many/Tester.java
+ com.roger.many.Tester
+com/roger/ReportTester.java
+ com.roger.ReportTester
+Hello.java
+ Hello
+com/roger/Ticket.java
+ com.roger.Ticket
+com/roger/student/StudentRunner.java
+ com.roger.student.StudentRunner
+com/roger/guess/Game.java
+ com.roger.guess.Game
+com/roger/Report.java
+ com.roger.Report
+com/roger/io/Tester.java
+ com.roger.io.Tester
