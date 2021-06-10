@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.roger.HumanTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-04T11:22:39" hostname="RogerLideMacBook-Air.local" time="0.041">
+  <properties/>
+  <testcase name="bmi()" classname="com.roger.HumanTest" time="0.041"/>
+  <system-out><![CDATA[test init
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
